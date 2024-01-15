@@ -1,0 +1,16 @@
+button {
+    height: 5em;
+    width: 10em;
+    margin-right: 10px;
+}
+
+#input-container {
+    display: flex;
+    align-items: center;
+
+ 
+}
+label {
+    font-size: 26px;
+    font-weight: bold;
+}
